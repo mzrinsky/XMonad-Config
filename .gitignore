@@ -1,0 +1,10 @@
+haskell-language-server
+stack.yaml.lock
+.stack-work
+xmobar-git
+xmonad-git
+xmonad-contrib-git
+xmonad-x86_64-linux
+xmonad.errors
+xmonad.hi
+xmonad.o

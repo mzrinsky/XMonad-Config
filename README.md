@@ -5,7 +5,9 @@ This has only been tested by me AFAIK on Manjaro Linux.
 
 YMMV
 
-If you find this useful, please consider supporting me.
+For a slightly more detailed write-up about my XMonad config, and why I use XMonad, you can look at [My Personal Site](https://zrinsky.us/posts/xmonad "XMonad post at my website").
+
+If you find this useful, please consider showing you care.
 
 <a href='https://ko-fi.com/A0A74VYT1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 

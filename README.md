@@ -1,4 +1,9 @@
 # My XMonad Config
+
+> I no longer run XMonad as my window manager so this is mot maintained.
+> 
+> Consider looking elsewhere for an up to date XMonad config.
+
 This is just my personal XMonad configuration.
 Currently I am using stack to build everything.
 This has only been tested by me AFAIK on Manjaro Linux.
